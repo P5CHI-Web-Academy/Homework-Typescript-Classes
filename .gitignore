@@ -1,3 +1,5 @@
+#for ts ignore *.js
+*.js
 # Logs
 logs
 *.log

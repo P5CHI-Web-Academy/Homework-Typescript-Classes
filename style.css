@@ -1,0 +1,15 @@
+.employee table tr th{
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.employee table tr td{
+    padding:10px;
+}
+
+hr{
+    margin-top: 30px;
+}

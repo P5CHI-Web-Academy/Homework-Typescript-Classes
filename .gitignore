@@ -1,3 +1,6 @@
+#JS ignore
+*.js
+
 # Logs
 logs
 *.log

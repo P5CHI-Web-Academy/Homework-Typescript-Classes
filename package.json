@@ -1,0 +1,22 @@
+{
+  "name": "homework-typescript-classes",
+  "version": "1.0.0",
+  "description": "Typescript Classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasilepogonea/Homework-Typescript-Classes.git"
+  },
+  "author": "Vasile Pogonea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasilepogonea/Homework-Typescript-Classes/issues"
+  },
+  "homepage": "https://github.com/vasilepogonea/Homework-Typescript-Classes#readme",
+  "dependencies": {
+    "typescript": "^2.8.1"
+  }
+}

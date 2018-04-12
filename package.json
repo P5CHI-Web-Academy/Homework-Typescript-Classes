@@ -1,0 +1,22 @@
+{
+  "name": "homework-typescript-classes",
+  "version": "1.0.0",
+  "description": "Create a dashboard where i can see employees and customers. See attached file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synch404/Homework-Typescript-Classes.git"
+  },
+  "author": "Topala Mihai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/synch404/Homework-Typescript-Classes/issues"
+  },
+  "homepage": "https://github.com/synch404/Homework-Typescript-Classes#readme",
+  "dependencies": {
+    "node-sass": "^4.8.3"
+  }
+}

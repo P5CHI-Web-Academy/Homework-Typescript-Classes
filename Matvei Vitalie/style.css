@@ -1,0 +1,17 @@
+body {
+    padding: 50px;
+}
+
+table {
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+}
+
+table,
+th {
+    text-align: center;
+}
+
+hr {
+    border-width: 10px;
+}
